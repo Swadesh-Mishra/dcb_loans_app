@@ -2,3 +2,7 @@ a=1
 b=2
 
 git stash command checked
+
+
+
+stash command troubleshoot
